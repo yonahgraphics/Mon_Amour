@@ -1,16 +1,18 @@
-# mon_amour
+# Mon Amour
 
-A new Flutter application.
+## About the project
 
-## Getting Started
+This a beautifully crafted portifolio website
 
-This project is a starting point for a Flutter application.
+## Animation Package
 
-A few resources to get you started if this is your first Flutter project:
+- [Animation Package: The animation package used can be found here](https://pub.dev/packages/simple_animations)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+<img src = "https://github.com/yonahgraphics/Animated_login_screen/blob/master/Github_readme%20photoshopProjet.png?raw=true">
+<img src = "https://github.com/yonahgraphics/Animated_login_screen/blob/master/Github_readme%20photoshopProjet.png?raw=true">
+<img src = "https://github.com/yonahgraphics/Animated_login_screen/blob/master/Github_readme%20photoshopProjet.png?raw=true">
+<img src = "https://github.com/yonahgraphics/Animated_login_screen/blob/master/Github_readme%20photoshopProjet.png?raw=true">
+<img src = "https://github.com/yonahgraphics/Animated_login_screen/blob/master/Github_readme%20photoshopProjet.png?raw=true">
+<img src = "https://github.com/yonahgraphics/Animated_login_screen/blob/master/Github_readme%20photoshopProjet.png?raw=true">
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
