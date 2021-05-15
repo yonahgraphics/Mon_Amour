@@ -2,10 +2,21 @@
 
 ## About the project
 
-This a beautifully crafted portifolio website
+This beautifully crafted portfolio website is built with flutter
 
-## Animation Package
+## The Designer
+It is inspired by Irina Larina's designs on <a href = "">Beahance</a>
 
-- [Animation Package: The animation package used can be found here](https://pub.dev/packages/simple_animations)
 
 <img src = "https://github.com/yonahgraphics/Mon_Amour/blob/master/lib/images/one.PNG?raw=true">
+<img src = "https://github.com/yonahgraphics/Mon_Amour/blob/master/lib/images/two.PNG?raw=true">
+<img src = "https://github.com/yonahgraphics/Mon_Amour/blob/master/lib/images/three.PNG?raw=true">
+<img src = "https://github.com/yonahgraphics/Mon_Amour/blob/master/lib/images/four.PNG?raw=true">
+<img src = "https://github.com/yonahgraphics/Mon_Amour/blob/master/lib/images/five.PNG?raw=true">
+<img src = "https://github.com/yonahgraphics/Mon_Amour/blob/master/lib/images/six.PNG?raw=true">
+<img src = "https://github.com/yonahgraphics/Mon_Amour/blob/master/lib/images/seven.PNG?raw=true">
+<img src = "https://github.com/yonahgraphics/Mon_Amour/blob/master/lib/images/eight.PNG?raw=true">
+<img src = "https://github.com/yonahgraphics/Mon_Amour/blob/master/lib/images/nine.PNG?raw=true">
+<img src = "https://github.com/yonahgraphics/Mon_Amour/blob/master/lib/images/ten.PNG?raw=true">
+<img src = "https://github.com/yonahgraphics/Mon_Amour/blob/master/lib/images/eleven.PNG?raw=true">
+
