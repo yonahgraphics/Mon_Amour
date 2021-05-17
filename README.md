@@ -8,16 +8,17 @@ This beautifully crafted portfolio website is built with flutter
 It is inspired by Irina Larina's designs on <a href = "https://www.behance.net/gallery/113187621/Portfolio?tracking_source=search_projects_recommended%7Cportfolio%20cv">Behance</a>
 
 
+<img src = "https://github.com/yonahgraphics/Mon_Amour/blob/master/assets/one.PNG">
+<img src = "https://github.com/yonahgraphics/Mon_Amour/blob/master/assets/two.PNG">
+<img src = "https://github.com/yonahgraphics/Mon_Amour/blob/master/assets/three.PNG">
+<img src = "https://github.com/yonahgraphics/Mon_Amour/blob/master/assets/four.PNG">
+<img src = "https://github.com/yonahgraphics/Mon_Amour/blob/master/assets/five.PNG">
+<img src = "https://github.com/yonahgraphics/Mon_Amour/blob/master/assets/six.PNG">
+<img src = "https://github.com/yonahgraphics/Mon_Amour/blob/master/assets/seven.PNG">
+<img src = "https://github.com/yonahgraphics/Mon_Amour/blob/master/assets/eight.PNG">
+<img src = "https://github.com/yonahgraphics/Mon_Amour/blob/master/assets/nine.PNG">
+<img src = "https://github.com/yonahgraphics/Mon_Amour/blob/master/assets/ten.PNG">
+<img src = "https://github.com/yonahgraphics/Mon_Amour/blob/master/assets/eleven.PNG">
 
-<img src = "https://github.com/yonahgraphics/Mon_Amour/blob/master/lib/images/one.PNG?raw=true">
-<img src = "https://github.com/yonahgraphics/Mon_Amour/blob/master/lib/images/two.PNG?raw=true">
-<img src = "https://github.com/yonahgraphics/Mon_Amour/blob/master/lib/images/three.PNG?raw=true">
-<img src = "https://github.com/yonahgraphics/Mon_Amour/blob/master/lib/images/four.PNG?raw=true">
-<img src = "https://github.com/yonahgraphics/Mon_Amour/blob/master/lib/images/five.PNG?raw=true">
-<img src = "https://github.com/yonahgraphics/Mon_Amour/blob/master/lib/images/six.PNG?raw=true">
-<img src = "https://github.com/yonahgraphics/Mon_Amour/blob/master/lib/images/seven.PNG?raw=true">
-<img src = "https://github.com/yonahgraphics/Mon_Amour/blob/master/lib/images/eight.PNG?raw=true">
-<img src = "https://github.com/yonahgraphics/Mon_Amour/blob/master/lib/images/nine.PNG?raw=true">
-<img src = "https://github.com/yonahgraphics/Mon_Amour/blob/master/lib/images/ten.PNG?raw=true">
-<img src = "https://github.com/yonahgraphics/Mon_Amour/blob/master/lib/images/eleven.PNG?raw=true">
+
 
