@@ -21,12 +21,13 @@ class TitleAndDescription extends StatelessWidget {
               color: Colors.yellow,
             ),
           ),
+          SizedBox(height: 50,),
           Text(
             "$description",
             softWrap: true,
             style: TextStyle(
               fontSize: 20,
-              color: Colors.grey,
+              color: Colors.white60,
             ),
           )
         ],
