@@ -4,7 +4,7 @@ import 'package:mon_amour/presentation/widgets/ContactSection.dart';
 import 'package:mon_amour/presentation/widgets/Footer.dart';
 import 'package:mon_amour/presentation/widgets/HomeContentAndImage.dart';
 import 'package:mon_amour/presentation/widgets/NavBar.dart';
-import 'package:mon_amour/presentation/widgets/Outline_buttorn.dart';
+import 'package:mon_amour/presentation/widgets/Outline_button.dart';
 import 'package:mon_amour/presentation/widgets/SocialsAndYellowLine_right.dart';
 import 'package:mon_amour/presentation/widgets/SocialsAndYelowLine_left.dart';
 import 'package:mon_amour/presentation/widgets/Timeline.dart';
@@ -55,7 +55,7 @@ class HomePage extends StatelessWidget {
                   ),
                   NavBar(),
                   HomeContentAndImage(
-                      "homepicFit.png", "Hello!", "Irina", "Data Scientist"),
+                      "homepicFit.png", "Hello!", "Julienne", "Data Scientist"),
                 ],
               ),
               Spacer(),
@@ -164,7 +164,7 @@ class HomePage extends StatelessWidget {
                               height: 12,
                             ),
                             Text(
-                              "BeetRoot Academy",
+                              "Carnegie Mellon University",
                               style: TextStyle(
                                 fontSize: 20,
                                 fontWeight: FontWeight.w900,

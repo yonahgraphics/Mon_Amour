@@ -2,7 +2,7 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:mon_amour/presentation/widgets/TitleAndDescription.dart';
 
-import 'Outline_buttorn.dart';
+import 'Outline_button.dart';
 
 class Contact extends StatelessWidget {
   @override
